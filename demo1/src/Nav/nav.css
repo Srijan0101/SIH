@@ -2,3 +2,10 @@
     background-color: grey;
     /* border: 1px solid black; */
 }
+.navbar{
+    margin-bottom: 20px;
+}
+
+.nav-login{
+    color: white;
+}
