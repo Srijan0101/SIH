@@ -1,0 +1,38 @@
+
+.events-wrapper{
+    width:80%;
+    height:100%;
+    border: 2px solid white;
+    margin:auto;
+    display:flex;
+    flex-direction:column;
+}
+.first3{
+    display: flex;
+    flex-direction: row;
+    width:90%;
+    height:60%;
+    margin:auto;
+}
+.second3{
+    display: flex;
+    flex-direction: row;
+    width:90%;
+    height:60%;
+    margin:auto;
+}
+.event{
+    width:30%;
+    border:2px solid white;
+    height:70%;
+    margin: auto;
+    border-radius: 10px;
+}
+.event:hover{
+    box-shadow: 5px 5px 8px white;
+}
+
+.eventimg{
+    width:100%;
+    height:100%;
+}
