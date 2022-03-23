@@ -9,7 +9,6 @@ import EventList from './eventLink/EventList/eventlist';
 import { BrowserRouter as Router, Route, Switch} from "react-router-dom";
 import { useContext } from 'react';
 import { Context } from "./context/Context";
-import Eventlist from './eventLink/EventList/eventlist';
 
 // import Carousel from './Carousel/carousel';
 function App() {

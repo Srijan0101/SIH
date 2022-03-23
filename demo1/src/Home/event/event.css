@@ -11,7 +11,7 @@
 .main-events{
     border-left: 2px solid rgba(131, 130, 130, 0.301);
     border-top: 2px solid rgba(131, 130, 130, 0.301);
-    height: 25vh;
+    height: 32vh;
     margin: 2vh;
     width: 70%; 
     padding:20px;
@@ -59,4 +59,11 @@
 .reminder:hover{
     background-color: #092583;
     transition: 0.5s ease-in-out;
+}
+.Datentime{
+    display: flex;
+    justify-content: space-between;
+}
+*{
+    scroll-behavior: smooth;
 }

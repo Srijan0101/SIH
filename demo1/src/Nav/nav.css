@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
 .nav-wrappp{
     background-color: rgb(5, 43, 87);
     border: 1px solid black;
@@ -21,4 +23,14 @@
     color: white;
     background-color: rgb(2, 32, 66);
     border-color: grey;
+}
+
+.nav-linkkk:hover{
+    
+    color: white;
+}
+
+.website-heading{
+    font-family: 'Dancing Script', cursive;
+    font-size: 90px;
 }

@@ -19,10 +19,10 @@ function eventlink() {
         <h1 align="center" className="evetxt">Events</h1>          
         <div className="first3">
           <div className="event">
-            <a href='/eventList'>
+            <Link to='/eventList'>
               
             <img src={international} className="event-imgg" />
-            </a>
+            </Link>
           
           </div>
           <div className="event"><img src={seminar} className="event-imgg"/></div>
