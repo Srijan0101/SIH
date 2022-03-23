@@ -58,4 +58,9 @@
     border: none;
     color: white;
     border-radius: 10px;
+    text-decoration: none;
+  }
+
+  .link{
+    text-decoration: none;
   }

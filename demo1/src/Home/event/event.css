@@ -51,5 +51,12 @@
     padding:10px 30px;
     margin:10px;
     border-style: none;
-    color:rgb(11, 108, 173);
+    color:white;
+    background-color: rgb(5, 43, 87);
+    border-radius: 5px;
+}
+
+.reminder:hover{
+    background-color: #092583;
+    transition: 0.5s ease-in-out;
 }
